@@ -1,1 +1,4 @@
-"# Image_Gen-ImageInspire"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/prasadpyla18/Image_Gen-ImageInspire.gitgit push -u origin main
+#Image_Gen-ImageInspire
+ -Used to generate dynamic images by entering the text.
+##Inorder to use my project you need an OpenAI's API key.That key is available at https://platform.openai.com/api-keys.
+Inorder to get that key you have an account in openAI.
